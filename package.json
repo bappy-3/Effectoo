@@ -1,0 +1,23 @@
+{
+  "name": "effectoo-website",
+  "version": "1.0.0",
+  "description": "AI-powered hybrid marketing company website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required for static site'",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "ai",
+    "marketing",
+    "hybrid",
+    "advertising",
+    "responsive",
+    "website"
+  ],
+  "author": "Effectoo",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
